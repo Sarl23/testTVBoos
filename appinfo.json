@@ -1,0 +1,10 @@
+{
+    "vendor": "My Company2",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "com.testtwo.app",
+    "title": "test_two",
+    "type": "web",
+    "version": "0.0.1"
+}
